@@ -2,6 +2,10 @@
 
 This project presents an interactive Excel dashboard developed to analyze and visualize road accident data. The dashboard provides key insights into accident patterns, contributing factors, and high-risk areas through the use of pivot tables, charts, and graphs.
 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21607ff1-319d-4586-929b-95fa55cf2a25" />
+Refer to Excel Project(Road Accident Data).xlsx
+
 ## 📊 Key Features
 
 - **Interactive Dashboard:** Developed a user-friendly Excel dashboard for dynamic visualization of road accident trends.
