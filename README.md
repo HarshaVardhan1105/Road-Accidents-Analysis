@@ -30,8 +30,8 @@ Refer to Excel Project(Road Accident Data).xlsx
 
 **Harsha Vardhan**  
 B.Tech Mechanical Engineering  
-[LinkedIn](https://www.linkedin.com/) | [Email](mailto:youremail@example.com)
-
+[LinkedIn](https://www.linkedin.com/in/harsha-vardhan-sattisetti-0a4727253/)
 ---
 
+> The original dataset is too large to upload. Hence samples of raw and cleaned data were uploaded.
 > This project demonstrates data analysis and visualization proficiency using Excel, applied to a real-world problem.
